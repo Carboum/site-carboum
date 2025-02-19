@@ -172,6 +172,7 @@ header{
 .video{
   display:inline-block;
     width:30%;
+    margin:4px;
 }
 
 .video-cadre{
