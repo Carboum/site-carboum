@@ -6,8 +6,7 @@ body{
     color:rgb(50, 5, 26);
    background-color:rgb(148, 111, 135);
    background-image:url(./image/accueil.png);
-   background-attachment:fixed;
-   background-size:cover;
+   background-attachment: fixed;
    
 }
 
