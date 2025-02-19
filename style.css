@@ -171,3 +171,7 @@ header{
 p{
     text-align:center;
 }
+
+.video{
+  display:inline-block;
+}
