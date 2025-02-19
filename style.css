@@ -168,10 +168,8 @@ header{
   width:100%;
 }
 
-p{
-    text-align:center;
-}
 
 .video{
   display:inline-block;
+    width:30%;
 }
