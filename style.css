@@ -174,15 +174,13 @@ header{
 
 .video{
   display:inline-block;
-    width:30%;
-    margin:4px;
+    
 }
 
 .video-cadre{
     margin-left:auto;
     margin-right:auto;
-    min-width:45%;
-    max-width:45%
+    
 }
 
 #moi{
