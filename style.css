@@ -189,3 +189,13 @@ header{
     margin-right:auto;
     width:30%;
 }
+
+.jeu-thumbnail{
+    width:30%;
+    animation-duration:0.5s;
+} 
+
+.jeu-thumbnail:hover{
+    width:40%;
+    animation-duration:0.5s;
+}
